@@ -1,5 +1,16 @@
 package ec.edu.ups.clases;
 
+/**
+ * Multimedia
+ * 
+ * clase que permite interpretar las extenciones de los documentos y tamaño
+ * 
+ * @version 2.0
+ * @since 2019
+ * @author Byron
+ * @see http://ups.edu.ec
+ */
+
 public class Multimedia {
 
     private String formato;
