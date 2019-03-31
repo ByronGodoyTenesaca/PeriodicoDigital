@@ -1,5 +1,16 @@
 package ec.edu.ups.clases;
 
+/**
+ * Noticia
+ * 
+ * clase que permite crear las noticias 
+ * 
+ * @version 2.0
+ * @since 2019
+ * @author Byron
+ * @see http://ups.edu.ec
+ */
+
 public class Noticia {
 
     private String titulo;

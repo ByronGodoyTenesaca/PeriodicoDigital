@@ -1,5 +1,16 @@
 package ec.edu.ups.clases;
 
+/**
+ * RedSocial
+ * 
+ * clase que permite la publicacion en diferentes redes sociales
+ * 
+ * @version 2.0
+ * @since 2019
+ * @author Byron
+ * @see http://ups.edu.ec
+ */
+
 public class RedSocial {
     private int codigo;
     private String nombre;

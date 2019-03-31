@@ -1,5 +1,16 @@
 package ec.edu.ups.clases;
 
+/**
+ * EstructuraPeriodico
+ * 
+ * clase que permite estructurar mi periodico digital 
+ * 
+ * @version 2.0
+ * @since 2019
+ * @author Byron
+ * @see http://ups.edu.ec
+ */
+
 public class EstructuraPeriodico {
 
     private String ubicacion;
